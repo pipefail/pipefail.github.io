@@ -27,9 +27,6 @@ params:
   homeInfoParams:
     Title: pipefail search
     Content: a UK-focused privacy blog
-  socialIcons:
-    - name "RSS"
-    - url: "https://pipefail.github.io/index.xml"
   defaultTheme: "auto"
   ShowReadingTime: true
   ShowShareButtons: true
