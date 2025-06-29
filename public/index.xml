@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>pipefail</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on pipefail</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Jun 2025 10:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 28 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>What pipefail stands for — privacy, sovereignty, and digital freedom.</description>
+    </item>
+    <item>
+      <title>PGP</title>
+      <link>http://localhost:1313/pgp/</link>
+      <pubDate>Sat, 28 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pgp/</guid>
+      <description>Public PGP key for secure communication.</description>
+    </item>
+    <item>
+      <title>Welcome to pipefail</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Sat, 28 Jun 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>First dispatch from pipefail, a UK-focused privacy blog.</description>
+    </item>
+  </channel>
+</rss>
