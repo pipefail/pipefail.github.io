@@ -63,13 +63,12 @@ jobs:
       - name: Configure Git
         run: git config core.quotepath false
       - name: Build with Hugo
-        run: |
-          hugo \
+        run: hugo \
             --gc \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache" \
-            --configDir ./config \
+            --configDir ./config  \
             --logLevel debug
       - name: Cache Save
         id: cache-save
