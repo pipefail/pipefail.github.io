@@ -1,0 +1,57 @@
+baseURL: "https://pipefail.github.io/"
+publishDir: "public"
+title: "pipefail"
+pagination:
+  pagerSize: 5
+theme: "PaperMod"
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+caches:
+  images:
+    dir: ":cacheDir/images"
+
+params:
+  env: "production"
+  title: "pipefail"
+  description: "Breaking the chain of surveillance."
+  keywords:
+    - "Blog"
+    - "Portfolio"
+    - "PaperMod"
+  author: "pipefail"
+  defaultTheme: "auto"
+  showEdit: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+markup:
+  highlight:
+    noClasses: false
+
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 5
+    - identifier: pgp
+      name: PGP
+      url: /pgp/
+      weight: 10
