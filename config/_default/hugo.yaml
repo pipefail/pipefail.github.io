@@ -21,9 +21,16 @@ params:
     - "Blog"
     - "Portfolio"
     - "PaperMod"
-  author: "pipefail"
+  author:
+    email: pipefail@proton.me
+    name: pipefail
+  homeInfoParams:
+    Title: pipefail search
+    Content: a UK-focused privacy blog
+  socialIcons:
+    - name "RSS"
+    - url: "https://pipefail.github.io/index.xml"
   defaultTheme: "auto"
-  showEdit: false
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
