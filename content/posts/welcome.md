@@ -3,7 +3,6 @@ title: "Welcome to pipefail"
 date: 2025-06-28T10:00:00+00:00
 tags: ["intro", "privacy", "blog"]
 author: "pipefail"
-draft: true
 description: "First dispatch from pipefail, a UK-focused privacy blog."
 ---
 
