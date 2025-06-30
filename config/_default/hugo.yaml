@@ -25,8 +25,8 @@ params:
     email: pipefail@proton.me
     name: pipefail
   homeInfoParams:
-    Title: pipefail search
-    Content: a UK-focused privacy blog
+    Title: pipefail
+    Content: - a UK-focused privacy blog
   defaultTheme: "auto"
   ShowReadingTime: true
   ShowShareButtons: true
