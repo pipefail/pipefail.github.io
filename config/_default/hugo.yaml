@@ -26,7 +26,7 @@ params:
     name: pipefail
   homeInfoParams:
     Title: pipefail
-    Content: - a UK-focused privacy blog
+    Content: "- a UK-focused privacy blog"
   defaultTheme: "auto"
   ShowReadingTime: true
   ShowShareButtons: true
