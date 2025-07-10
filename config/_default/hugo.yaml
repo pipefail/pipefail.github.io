@@ -22,10 +22,10 @@ params:
     - "Portfolio"
     - "PaperMod"
   author:
-    email: pipefail@proton.me
-    name: pipefail
+    email: "pipefail@proton.me"
+    name: "pipefail"
   homeInfoParams:
-    Title: pipefail
+    Title: "pipefail"
     Content: "- a UK-focused privacy blog"
   defaultTheme: "auto"
   ShowReadingTime: true
@@ -51,11 +51,11 @@ markup:
 
 menu:
   main:
-    - identifier: about
-      name: About
-      url: /about/
+    - identifier: "about"
+      name: "About"
+      url: "/about/"
       weight: 5
-    - identifier: pgp
-      name: PGP
-      url: /pgp/
+    - identifier: "pgp"
+      name: "PGP"
+      url: "/pgp/"
       weight: 10
